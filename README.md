@@ -11,7 +11,7 @@
 
 My name is Diego and I am a software engineer at Red Ventures. Passionate about learning and programming 💻.
   
-- In 💙 with golang language. 
+- 💙  In love with golang language. 
 - 📚  Learning about Microservices, CI/CD, Docker, Kubernetes and software architecture.
 - 🔭  I wanna be one of the world best software engineers.
 - 📫  Please do not hesitate to contact me.
