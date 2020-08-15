@@ -2,8 +2,8 @@
 
 ### Hi, there! 👋 Welcome to my profile 😄 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/diegoclair)](https://github.com/diegoclair)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diegoclair/)](https://www.linkedin.com/in/diegoclair/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/diegoclair)](https://github.com/diegoclair)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/diegoclair)](https://t.me/diegoclair)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego93rodrigues@gmail.com)](mailto:diego93rodrigues@gmail.com)
 
