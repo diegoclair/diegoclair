@@ -12,10 +12,13 @@
 My name is Diego and I am a software engineer at Red Ventures. Passionate about learning and programming 💻.
   
 - 💙  In love with golang language. 
-- 📚  Learning about Microservices, CI/CD, Docker, Kubernetes and software architecture.
+- 📚  Learning about Microservices, CI/CD, Docker, Kubernetes, Cloud and software architecture.
 - 🔭  I wanna be one of the world best software engineers.
-- 📫  Please do not hesitate to contact me.
-
+- 📫  Please do not hesitate to contact me.  
+<br/>
+<br/>
+   
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=diegoclair&show_icons=true&theme=dark&count_private=true)
 
 <!--
 **diegoclair/diegoclair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
