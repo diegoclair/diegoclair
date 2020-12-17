@@ -8,12 +8,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diego93rodrigues@gmail.com)](mailto:diego93rodrigues@gmail.com)
 
 ### About me
-
-My name is Diego and I am a software engineer at Red Ventures. Passionate about learning and programming 💻.
   
-- 💙  In love with golang language. 
-- 📚  Learning about Microservices, CI/CD, Docker, Kubernetes, Cloud and software architecture.
+- 🏢  I'm currently working at [Red Ventures](https://redventures.com/) as a Software Engineer.
 - 🔭  I wanna be one of the world best software engineers.
+- 💻  I'm passionate about learning and programming.
+- 📚  Learning about Microservices, CI/CD, Docker, Kubernetes, Cloud and software architecture.
+- 💙  In love with golang language. 
 - 📫  Please do not hesitate to contact me.  
 <br/>
 <br/>
