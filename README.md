@@ -9,12 +9,12 @@
 
 ### About me
   
-- 🏢  I'm currently working at [Red Ventures](https://redventures.com/) as a Software Engineer.
-- 🔭  I wanna be one of the world best software engineers.
-- 💻  I'm passionate about learning and programming.
-- 📚  Learning about Microservices, CI/CD, Docker, Kubernetes, Cloud and software architecture.
-- 💙  In love with golang language. 
-- 📫  Please do not hesitate to contact me.  
+- 🏢 &nbsp; I'm currently working at [Red Ventures](https://redventures.com/) as a Software Engineer.
+- 🔭 &nbsp; I wanna be one of the world best software engineers.
+- 💻 &nbsp; I'm passionate about learning and programming.
+- 📚 &nbsp; Learning about Microservices, CI/CD, Docker, Kubernetes, Cloud and software architecture.
+- 💙 &nbsp; In love with golang language. 
+- 📫 &nbsp; Please do not hesitate to contact me.  
 <br/>
 <br/>
    
