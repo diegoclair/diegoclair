@@ -9,7 +9,7 @@
 
 ### About me
   
-- 🏢 &nbsp; I'm currently working at [Red Ventures](https://redventures.com/) as a Software Engineer.
+- 🏢 &nbsp; I'm currently working at [Red Ventures](https://redventures.com/) as a Senior Software Engineer.
 - 🔭 &nbsp; I wanna be one of the world best software engineers.
 - 💻 &nbsp; I'm passionate about learning and programming.
 - 📚 &nbsp; Learning about Microservices, CI/CD, Docker, Kubernetes, Cloud and software architecture.
