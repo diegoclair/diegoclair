@@ -15,9 +15,9 @@
 - 📚 &nbsp; Learning about Microservices, CI/CD, Docker, Kubernetes, Cloud and software architecture.
 - 💙 &nbsp; In love with golang language. 
 - 📫 &nbsp; Please do not hesitate to contact me.  
-<br/>
-<br/>
 
+##
+  
 <div>
   <a href="https://github.com/diegoclair">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=diegoclair&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
