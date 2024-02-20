@@ -14,7 +14,8 @@
 - 💻 &nbsp; I'm passionate about learning and programming.
 - 📚 &nbsp; Learning about Microservices, CI/CD, Docker, Kubernetes, Cloud and software architecture.
 - 💙 &nbsp; In love with golang language. 
-- 📫 &nbsp; Please do not hesitate to contact me.  
+- 📫 &nbsp; Please do not hesitate to contact me.
+- 🚀 &nbsp; Created an open source project [goswag](https://github.com/diegoclair/goswag) 
 
 ##
   
