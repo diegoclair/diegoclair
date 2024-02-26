@@ -10,7 +10,7 @@
 ### About me
   
 - 🏢 &nbsp; I'm currently working at [Avenue](https://avenue.us/) as a Software Engineer.
-- 🔭 &nbsp; I wanna be one of the world best software engineers.
+- 🔭 &nbsp; I wanna be one of the world’s best software engineers.
 - 💻 &nbsp; I'm passionate about learning and programming.
 - 📚 &nbsp; Learning about Microservices, CI/CD, Docker, Kubernetes, Cloud and software architecture.
 - 💙 &nbsp; In love with golang language. 
